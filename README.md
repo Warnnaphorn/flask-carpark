@@ -91,9 +91,8 @@ Test case: Test_Format-001
 
 Description:Validation of the data type,data length and schema format associated with this format
 
----------------------------------------------------------
-           |               |                 |             
-Floor_Slot |	Status       |	YYYY-MM-DD     |	  Time
+---------------------------------------------------------  
+Floor_Slot |	Status   |	YYYY-MM-DD     |	  Time
 -----------|---------------|-----------------|-----------
 F3_22	     |   Occupied	   |  1/12/2020      |	 9:58:00
 F2_10	     |   Available   |	1/13/2020      |	10:58:00
